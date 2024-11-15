@@ -1,0 +1,3 @@
+[submodule "hypatia-web"]
+	path = hypatia-web
+	url = git@github.com:charliebarber/hypatia-web.git
